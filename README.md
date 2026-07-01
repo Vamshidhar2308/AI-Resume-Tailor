@@ -167,7 +167,7 @@ Download Resume + ATS Report
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Resume-Tailor.git
+git clone https://github.com/Vamshidhar2308/AI-Resume-Tailor.git
 ```
 
 ```bash
