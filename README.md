@@ -262,11 +262,9 @@ Add
 OPENAI_API_KEY=YOUR_OPENAI_API_KEY
 ```
 
-Do **NOT** upload your `.env` file to GitHub.
-
 ---
 
-# 📊 Current Functionality
+# 📊 Current Functionalities
 
 ✅ Resume Upload
 
@@ -338,17 +336,23 @@ Do **NOT** upload your `.env` file to GitHub.
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-You can add screenshots like:
+### 🏠 Home Page
 
-- Home Screen
-- Resume Upload
-- ATS Report
-- Generated Resume
-- Download Screen
+![Home Page](screenshots/home.png)
 
 ---
+
+### 📄 Resume Upload & Job Description
+
+![Resume Upload](screenshots/upload.png)
+
+---
+
+### 🎯 Generated Resume & ATS Report
+
+## ![Result](screenshots/result.png)
 
 # 👨‍💻 Author
 
